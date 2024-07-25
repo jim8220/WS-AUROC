@@ -1,0 +1,5 @@
+rseed : 30
+batch_size : 16
+short_cut : True
+epochs: 20
+input_feature: vibxA_feat
