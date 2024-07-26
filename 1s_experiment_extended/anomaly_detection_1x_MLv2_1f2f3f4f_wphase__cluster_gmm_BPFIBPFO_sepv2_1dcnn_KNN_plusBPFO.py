@@ -208,7 +208,7 @@ for t in range(param['epochs']):
     print(f'best valid loss: {best_valid_loss}')
 
 # test
-
+detector = best_model
 # get train features
 
 train_features = []
